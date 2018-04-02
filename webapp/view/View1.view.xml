@@ -4,7 +4,9 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-				<Button  text="changeme" type="Emphasized" class="Buttonsize" press="onProceed"/>
+
+				<Button  text="I am trying" type="Emphasized" class="Buttonsize" press="onProceed"/>
+
 				</content>
 			</Page>
 		</pages>
